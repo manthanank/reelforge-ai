@@ -1,0 +1,268 @@
+[
+  {
+    "id": "reel-1-creator-secret",
+    "titleHook": {
+      "badge": "🔥 CREATOR SECRET",
+      "headline": "Stop Making This Mistake",
+      "durationInFrames": 90
+    },
+    "captions": [
+      {
+        "id": "p1",
+        "startFrame": 10,
+        "endFrame": 55,
+        "words": [
+          { "text": "STOP", "startFrame": 10, "endFrame": 20, "highlightColor": "#EF4444", "sticker": "warning" },
+          { "text": "MAKING", "startFrame": 21, "endFrame": 32 },
+          { "text": "THIS", "startFrame": 33, "endFrame": 43 },
+          { "text": "MISTAKE", "startFrame": 44, "endFrame": 55, "highlightColor": "#EF4444" }
+        ]
+      },
+      {
+        "id": "p2",
+        "startFrame": 56,
+        "endFrame": 110,
+        "words": [
+          { "text": "WHEN", "startFrame": 56, "endFrame": 68 },
+          { "text": "POSTING", "startFrame": 69, "endFrame": 82 },
+          { "text": "YOUR", "startFrame": 83, "endFrame": 95 },
+          { "text": "REELS!", "startFrame": 96, "endFrame": 110, "highlightColor": "#FFDE00", "emoji": "📱" }
+        ]
+      },
+      {
+        "id": "p3",
+        "startFrame": 111,
+        "endFrame": 175,
+        "words": [
+          { "text": "THE", "startFrame": 111, "endFrame": 125 },
+          { "text": "FIRST", "startFrame": 126, "endFrame": 140 },
+          { "text": "THREE", "startFrame": 141, "endFrame": 158, "highlightColor": "#38BDF8", "sticker": "lightning" },
+          { "text": "SECONDS", "startFrame": 159, "endFrame": 175, "highlightColor": "#38BDF8" }
+        ]
+      },
+      {
+        "id": "p4",
+        "startFrame": 176,
+        "endFrame": 250,
+        "words": [
+          { "text": "DECIDE", "startFrame": 176, "endFrame": 195 },
+          { "text": "YOUR", "startFrame": 196, "endFrame": 212 },
+          { "text": "ENTIRE", "startFrame": 213, "endFrame": 230 },
+          { "text": "REACH!", "startFrame": 231, "endFrame": 250, "highlightColor": "#22C55E", "sticker": "rocket" }
+        ]
+      },
+      {
+        "id": "p5",
+        "startFrame": 251,
+        "endFrame": 330,
+        "words": [
+          { "text": "IF", "startFrame": 251, "endFrame": 268 },
+          { "text": "YOU", "startFrame": 269, "endFrame": 285 },
+          { "text": "START", "startFrame": 286, "endFrame": 305 },
+          { "text": "SLOWLY,", "startFrame": 306, "endFrame": 330, "highlightColor": "#EF4444" }
+        ]
+      },
+      {
+        "id": "p6",
+        "startFrame": 331,
+        "endFrame": 410,
+        "words": [
+          { "text": "VIEWERS", "startFrame": 331, "endFrame": 352 },
+          { "text": "WILL", "startFrame": 353, "endFrame": 370 },
+          { "text": "SWIPE", "startFrame": 371, "endFrame": 390, "highlightColor": "#EF4444", "emoji": "👆" },
+          { "text": "AWAY!", "startFrame": 391, "endFrame": 410 }
+        ]
+      },
+      {
+        "id": "p7",
+        "startFrame": 411,
+        "endFrame": 500,
+        "words": [
+          { "text": "INSTEAD,", "startFrame": 411, "endFrame": 435 },
+          { "text": "USE", "startFrame": 436, "endFrame": 455 },
+          { "text": "BOLD", "startFrame": 456, "endFrame": 475, "highlightColor": "#FFDE00" },
+          { "text": "CAPTIONS,", "startFrame": 476, "endFrame": 500, "highlightColor": "#FFDE00" }
+        ]
+      },
+      {
+        "id": "p8",
+        "startFrame": 501,
+        "endFrame": 590,
+        "words": [
+          { "text": "HIGH", "startFrame": 501, "endFrame": 522 },
+          { "text": "CONTRAST", "startFrame": 523, "endFrame": 545, "highlightColor": "#00F0FF" },
+          { "text": "COLORS,", "startFrame": 546, "endFrame": 568 },
+          { "text": "AND", "startFrame": 569, "endFrame": 590 }
+        ]
+      },
+      {
+        "id": "p9",
+        "startFrame": 591,
+        "endFrame": 680,
+        "words": [
+          { "text": "CUT", "startFrame": 591, "endFrame": 612, "highlightColor": "#EF4444", "emoji": "✂️" },
+          { "text": "ALL", "startFrame": 613, "endFrame": 634 },
+          { "text": "DEAD", "startFrame": 635, "endFrame": 655 },
+          { "text": "AIR!", "startFrame": 656, "endFrame": 680, "highlightColor": "#EF4444" }
+        ]
+      },
+      {
+        "id": "p10",
+        "startFrame": 681,
+        "endFrame": 780,
+        "words": [
+          { "text": "THIS", "startFrame": 681, "endFrame": 702 },
+          { "text": "DOUBLES", "startFrame": 703, "endFrame": 725, "highlightColor": "#22C55E", "sticker": "sparkles" },
+          { "text": "YOUR", "startFrame": 726, "endFrame": 748 },
+          { "text": "WATCHTIME!", "startFrame": 749, "endFrame": 780, "highlightColor": "#22C55E" }
+        ]
+      },
+      {
+        "id": "p11",
+        "startFrame": 781,
+        "endFrame": 890,
+        "words": [
+          { "text": "SAVE", "startFrame": 781, "endFrame": 805, "highlightColor": "#FFDE00", "emoji": "💾" },
+          { "text": "THIS", "startFrame": 806, "endFrame": 825 },
+          { "text": "AND", "startFrame": 826, "endFrame": 845 },
+          { "text": "FOLLOW", "startFrame": 846, "endFrame": 868, "highlightColor": "#22C55E", "emoji": "👇" },
+          { "text": "FOR MORE!", "startFrame": 869, "endFrame": 890, "highlightColor": "#22C55E", "sticker": "fire" }
+        ]
+      }
+    ],
+    "theme": {
+      "highlightColor": "#FFDE00",
+      "accentColor": "#22C55E",
+      "textColor": "#FFFFFF",
+      "dimTextColor": "rgba(255, 255, 255, 0.45)",
+      "backgroundColor": "#07090E",
+      "overlayOpacity": 0.65,
+      "fontSize": 72,
+      "captionYPosition": 62
+    },
+    "backgroundType": "cinematic-gradient"
+  },
+  {
+    "id": "reel-2-dev-tip",
+    "titleHook": {
+      "badge": "⚡ DEV PRO TIP",
+      "headline": "3 Rules For Clean Code",
+      "durationInFrames": 90
+    },
+    "captions": [
+      {
+        "id": "p1",
+        "startFrame": 10,
+        "endFrame": 65,
+        "words": [
+          { "text": "IF", "startFrame": 10, "endFrame": 25 },
+          { "text": "YOU", "startFrame": 26, "endFrame": 40 },
+          { "text": "WRITE", "startFrame": 41, "endFrame": 52 },
+          { "text": "CODE,", "startFrame": 53, "endFrame": 65, "highlightColor": "#00F0FF", "emoji": "💻" }
+        ]
+      },
+      {
+        "id": "p2",
+        "startFrame": 66,
+        "endFrame": 140,
+        "words": [
+          { "text": "STOP", "startFrame": 66, "endFrame": 85, "highlightColor": "#EF4444", "sticker": "warning" },
+          { "text": "WRITING", "startFrame": 86, "endFrame": 105 },
+          { "text": "REPEATED", "startFrame": 106, "endFrame": 125 },
+          { "text": "BOILERPLATE!", "startFrame": 126, "endFrame": 140, "highlightColor": "#FFB800" }
+        ]
+      },
+      {
+        "id": "p3",
+        "startFrame": 141,
+        "endFrame": 230,
+        "words": [
+          { "text": "RULE", "startFrame": 141, "endFrame": 160, "highlightColor": "#00F0FF" },
+          { "text": "ONE:", "startFrame": 161, "endFrame": 180, "highlightColor": "#00F0FF" },
+          { "text": "AUTOMATE", "startFrame": 181, "endFrame": 205, "highlightColor": "#22C55E", "sticker": "lightning" },
+          { "text": "YOUR TESTS.", "startFrame": 206, "endFrame": 230 }
+        ]
+      },
+      {
+        "id": "p4",
+        "startFrame": 231,
+        "endFrame": 330,
+        "words": [
+          { "text": "RULE", "startFrame": 231, "endFrame": 250, "highlightColor": "#00F0FF" },
+          { "text": "TWO:", "startFrame": 251, "endFrame": 270, "highlightColor": "#00F0FF" },
+          { "text": "KEEP", "startFrame": 271, "endFrame": 290 },
+          { "text": "FUNCTIONS", "startFrame": 291, "endFrame": 310, "highlightColor": "#FFDE00" },
+          { "text": "SMALL.", "startFrame": 311, "endFrame": 330 }
+        ]
+      },
+      {
+        "id": "p5",
+        "startFrame": 331,
+        "endFrame": 430,
+        "words": [
+          { "text": "NEVER", "startFrame": 331, "endFrame": 355, "highlightColor": "#EF4444" },
+          { "text": "EXCEED", "startFrame": 356, "endFrame": 380 },
+          { "text": "FIFTY", "startFrame": 381, "endFrame": 405, "highlightColor": "#EF4444" },
+          { "text": "LINES!", "startFrame": 406, "endFrame": 430 }
+        ]
+      },
+      {
+        "id": "p6",
+        "startFrame": 431,
+        "endFrame": 540,
+        "words": [
+          { "text": "AND", "startFrame": 431, "endFrame": 455 },
+          { "text": "RULE", "startFrame": 456, "endFrame": 475, "highlightColor": "#00F0FF" },
+          { "text": "THREE:", "startFrame": 476, "endFrame": 495, "highlightColor": "#00F0FF" },
+          { "text": "DOCUMENT", "startFrame": 496, "endFrame": 520, "highlightColor": "#22C55E" },
+          { "text": "THE WHY,", "startFrame": 521, "endFrame": 540 }
+        ]
+      },
+      {
+        "id": "p7",
+        "startFrame": 541,
+        "endFrame": 650,
+        "words": [
+          { "text": "NOT", "startFrame": 541, "endFrame": 565 },
+          { "text": "JUST", "startFrame": 566, "endFrame": 590 },
+          { "text": "THE", "startFrame": 591, "endFrame": 615 },
+          { "text": "WHAT!", "startFrame": 616, "endFrame": 650, "highlightColor": "#FFDE00", "sticker": "lightning" }
+        ]
+      },
+      {
+        "id": "p8",
+        "startFrame": 651,
+        "endFrame": 760,
+        "words": [
+          { "text": "THIS", "startFrame": 651, "endFrame": 675 },
+          { "text": "MAKES", "startFrame": 676, "endFrame": 700 },
+          { "text": "YOU", "startFrame": 701, "endFrame": 725 },
+          { "text": "A 10X DEV!", "startFrame": 726, "endFrame": 760, "highlightColor": "#22C55E", "sticker": "rocket" }
+        ]
+      },
+      {
+        "id": "p9",
+        "startFrame": 761,
+        "endFrame": 890,
+        "words": [
+          { "text": "SHARE", "startFrame": 761, "endFrame": 788, "highlightColor": "#00F0FF", "emoji": "↗️" },
+          { "text": "WITH", "startFrame": 789, "endFrame": 810 },
+          { "text": "YOUR", "startFrame": 811, "endFrame": 830 },
+          { "text": "TEAM", "startFrame": 831, "endFrame": 855 },
+          { "text": "AND FOLLOW!", "startFrame": 856, "endFrame": 890, "highlightColor": "#22C55E", "sticker": "fire" }
+        ]
+      }
+    ],
+    "theme": {
+      "highlightColor": "#00F0FF",
+      "accentColor": "#FF3366",
+      "textColor": "#FFFFFF",
+      "dimTextColor": "rgba(255, 255, 255, 0.45)",
+      "backgroundColor": "#050B14",
+      "overlayOpacity": 0.7,
+      "fontSize": 72,
+      "captionYPosition": 62
+    },
+    "backgroundType": "cinematic-gradient"
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "name": "reelforge-ai",
+  "version": "1.0.0",
+  "description": "ReelForge AI — High-converting programmatic Instagram Reels and YouTube Shorts generator with Remotion",
+  "scripts": {
+    "dev": "remotion preview src/index.ts",
+    "preview": "remotion preview src/index.ts",
+    "build": "remotion render src/index.ts CaptionsReel out/reel.mp4",
+    "render": "remotion render src/index.ts CaptionsReel out/reel.mp4",
+    "render:multiscene": "remotion render src/index.ts MultiSceneReel out/multiscene.mp4",
+    "render:all": "node scripts/batch-render.mjs",
+    "dashboard": "node dashboard/server.mjs",
+    "generate:audio": "node scripts/generate-audio-assets.mjs",
+    "convert:srt": "node scripts/srt-to-remotion.mjs"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.218",
+    "@remotion/google-fonts": "^4.0.541",
+    "@remotion/lottie": "^4.0.541",
+    "@remotion/media-utils": "^4.0.218",
+    "@remotion/transitions": "^4.0.541",
+    "lottie-web": "^5.13.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.218"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "@types/react": "^18.3.3",
+    "typescript": "^5.4.5"
+  }
+}
