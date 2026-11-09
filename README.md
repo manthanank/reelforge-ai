@@ -42,7 +42,7 @@ npm run render:all
 ## 📁 Project Structure
 
 ```
-remotion-shorts/
+reelforge-ai/
 ├── src/
 │   ├── index.ts                     # Remotion root registration
 │   ├── Root.tsx                     # Registers compositions & 9:16 resolutions
